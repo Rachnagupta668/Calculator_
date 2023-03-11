@@ -45,9 +45,9 @@ body{
     width: 7vw;
     height: 6vh;
     border-radius: 5px;
-    background-color: green;
+    background-color: yellow;
     border: none;
-    color: white;
+    color: red;
 }
 
 .btn:hover{
